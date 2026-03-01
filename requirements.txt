@@ -1,7 +1,5 @@
-langchain
-faiss-cpu
-openai
-pypdf
+streamlit
+PyPDF2
 sentence-transformers
-tiktoken
-python-dotenv
+scikit-learn
+numpy
